@@ -4,6 +4,6 @@ When it prompts you for actions here this is the syntax:
 * rXX : raise to XX%, e.g., r60 means raise 60%
 * f   : fold
 
-Demo: https://asciinema.org/a/ZKWJjcxkdX899ucAb73p8Upwu
+Demo: https://asciinema.org/a/iRUQndBjtQE7f26rcvq8n7S7p
 
 Note: there are still some bugs to be worked out.
